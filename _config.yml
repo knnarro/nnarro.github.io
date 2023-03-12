@@ -19,12 +19,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Naro's Log                     # the main title
+title: 잊어버리지마     # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 백엔드 개발자 나로는<br>기억력이 영 좋지 않습니다.<br>혹여나 잊어버려도<br>찾을 수 있게 기록합니다. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  django, python, backend
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nnarro.github.io/'
@@ -78,10 +78,10 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://chirpy-img.netlify.app'
+img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/assets/img/profile.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
